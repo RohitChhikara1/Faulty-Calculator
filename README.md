@@ -1,2 +1,2 @@
 # Faulty-Calculator
-"Excited to share my latest Python project—a 'Faulty Calculator'! 
+"Excited to share my latest Python project—a 'Faulty Calculator'! This unique calculator is designed to give incorrect results for specific cases while performing accurately in all others. It was a fun challenge to create, combining logic with creativity to introduce intentional errors in some operations. This project helped me dive deeper into Python programming, enhancing my problem-solving skills and understanding of how systems handle calculations. Looking forward to applying these skills to even more complex projects!"
